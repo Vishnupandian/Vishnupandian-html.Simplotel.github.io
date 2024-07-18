@@ -1,0 +1,49 @@
+#overall{
+    height: 100%;
+    width: 100%;
+}
+#top{
+    height: 50px;
+    width: 100%;
+    background-color: tomato;
+}
+#up{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-left: 100px;
+    text-align: center;
+}
+#up ul{
+    text-align: center;
+}
+#leftside{
+    border: 1px solid white;
+    height: 500px;
+    width: 700px;
+    background-color: sandybrown;
+}
+#head{
+    margin-top: 120px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#para{
+    margin-top: 50px;
+}
+#but{
+    margin-left: 220px;
+    padding:20px;
+width: 200px;
+background-color: red;
+
+}
+#rightside{
+    margin-left: 700px;
+    margin-top: -500px;
+
+}
+@media screen {
+
+    
+}
